@@ -1,0 +1,132 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+
+    <!--暂无数据 字体大小    -->
+    <dimen name="default_null_text_size">18dp</dimen>
+
+    <dimen name="line_margin">12dp</dimen>
+
+    <!--*************** 全局 ***********************-->
+
+    <!-- 默认主字体大小 -->
+    <dimen name="default_text_size">14dp</dimen>
+
+    <!-- 默认提示字体大小 -->
+    <dimen name="default_ts_text_size">13dp</dimen>
+
+    <!-- 默认按钮字体大小 -->
+    <dimen name="default_button_textSize">16dp</dimen>
+
+    <!-- 默认按钮高度大小 -->
+    <dimen name="default_button_height_size">30dp</dimen>
+
+    <!-- 默认按钮margin大小 -->
+    <dimen name="default_button_margin_size">5dp</dimen>
+
+    <!-- MyTitleTextStyle 字体大小 -->
+    <dimen name="default_MyTitleTextStyle_textSize">16sp</dimen>
+
+    <!-- MyActionBar 大小 -->
+    <dimen name="default_MyActionBar_size">18sp</dimen>
+
+    <!-- MenuTextStyle 字体大小-->
+    <dimen name="default_MenuTextStyle_textSize">28sp</dimen>
+
+    <!-- 标题背景高度 -->
+    <dimen name="default_title_background_size">40dp</dimen>
+
+    <!-- 左右布局列表 左侧序号字体大小 -->
+    <dimen name="default_list_layout_left_textSize">18dp</dimen>
+
+    <!-- 左右布局列表 左侧背景宽度 -->
+    <dimen name="default_list_layout_leftWidth">30dp</dimen>
+
+    <!-- 左右布局列表 首行右侧省略号按钮字体大小 -->
+    <dimen name="default_list_layout_right_textSize">16sp</dimen>
+
+    <!-- 左右布局列表 每行间隔大小 -->
+    <dimen name="default_list_layout_row_marginTop">10dp</dimen>
+
+    <!-- 左右布局列表 每行左侧标题宽度占比 -->
+    <dimen name="default_list_layout_row_left_width">0.25</dimen>
+
+    <!-- 左右布局列表 每行右侧内容宽度占比 -->
+    <dimen name="default_list_layout_row_right_width">0.75</dimen>
+
+    <!-- 左右布局列表 每行右侧内容左间距大小 -->
+    <dimen name="default_list_layout_row_right_marginLeft_size">10dp</dimen>
+
+    <!-- title 右侧文字按钮大小 -->
+    <dimen name="default_title_botton_textSize">16sp</dimen>
+
+    <!-- tab 字体大小 -->
+    <dimen name="default_tab_textSize">14sp</dimen>
+
+    <!-- 方案详情页 项目 左侧标题宽度 -->
+    <dimen name="default_sgfa_bs_xm_titleLeft">100dp</dimen>
+
+    <!--****************2019.3.21***************************-->
+    <!-- 方案修改页 添加图标高度 -->
+    <dimen name="default_sgfa_xg_dd_addImgHeightSize">30dp</dimen>
+
+    <!-- 上下布局列表 每行左侧标题宽度占比 -->
+    <dimen name="default_sx_list_layout_row_left_width">0.3</dimen>
+
+    <!-- 上下布局列表 每行右侧内容宽度占比 -->
+    <dimen name="default_sx_list_layout_row_right_width">1</dimen>
+
+    <!-- 下拉框 spinner行高 -->
+    <dimen name="spinner_row_height">30dp</dimen>
+
+    <!--****************2019.4.10***************************-->
+    <dimen name="default_layout_title">30dp</dimen>
+
+
+    <!-- 功能tab 左侧功能栏宽度 -->
+    <dimen name="default_function_block_width">90dp</dimen>
+    <!-- 功能tab 功能名称文字大小 -->
+    <dimen name="default_function_name_text">14dp</dimen>
+    <!-- 功能tab 功能图标宽度 -->
+    <dimen name="default_function_img_width">26dp</dimen>
+    <!-- 功能tab 功能图标高度 -->
+    <dimen name="default_function_img_height">26dp</dimen>
+    <!-- 功能tab 功能图标上边距 -->
+    <dimen name="default_function_img_top">10dp</dimen>
+    <!-- 功能tab 功能图标下边距 -->
+    <dimen name="default_function_img_bottom">5dp</dimen>
+    <!-- 功能tab 功能整体按钮下边距 -->
+    <dimen name="default_function_bottom">5dp</dimen>
+
+    <!-- 首页 功能名字体大小 -->
+    <dimen name="default_head_function_name_text">12dp</dimen>
+    <!-- 首页 功能图标内上边距 -->
+    <dimen name="default_head_function_top">4dp</dimen>
+    <!-- 首页 功能图标内下边距 -->
+    <dimen name="default_head_function_bottom">15dp</dimen>
+
+    <!-- 全部功能页 功能模块名 字体大小 -->
+    <dimen name="default_all_function_title">11dp</dimen>
+
+    <!-- 字典维护 单位维护 修改、更多字号 -->
+    <dimen name="default_zdwh_dwwh">12dp</dimen>
+    <!-- 添加单位页面 标题 内容间隔 -->
+    <dimen name="default_zdwh_dwwh_add">100dp</dimen>
+
+    <!-- 安全协议录入页面 小标题间隔-->
+    <dimen name="default_sgxyhlr_aqxylr">70dp</dimen>
+    <!-- 安全协议录入页面 选择附件按钮文字 字号 -->
+    <dimen name="default_sgxyhlr_aqxylr_xafj">12dp</dimen>
+
+    <!-- 安全协议详情页面  提示文字大小 -->
+    <dimen name="default_aqxyxq_ts">13dp</dimen>
+
+    <!-- 输入框 内容为分钟的默认宽度-->
+    <dimen name="default_edittext_minute_width">60dp</dimen>
+
+</resources>
